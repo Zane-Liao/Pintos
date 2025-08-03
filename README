@@ -1,8 +1,8 @@
 Pintos Kernel
 -------------
 
-This kernel is a project for Stanford University's CS112/CS212 program. 
-It's a teaching operating system that uses a single kernel. 
+this kernel is a project for stanford university's cs112/cs212. 
+It's a teaching operating system that uses a Monolithic kernel. 
 We'll implement it from four modules:
     /threads
     /userprog
