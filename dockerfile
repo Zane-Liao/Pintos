@@ -71,6 +71,9 @@ RUN which i386-elf-gcc && i386-elf-gcc --version
 RUN apt-get update && \
     apt-get install -y \
     qemu-system-i386 \
-    bochs
+    bochs \
+    bochs-x \
+    bochs-sdl \
+    bochsbios
 
 # test: qemu-system-i386 --version && bochs --version
