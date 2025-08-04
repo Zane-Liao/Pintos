@@ -13,3 +13,9 @@ The documentation directory contains my own design documents, which try
 to follow Stanford's rules. I also refer to and read the source code of 
 similar open source operating systems such as Linux, as well as some papers.
 
+Notes: Regarding Dockerfile, when I was configuring the Pintos environment,
+I started to refer to many solutions on the Internet, but there were
+incompatibility issues or Docker image stuck issues. I spent half
+a day to build a relatively rough environment configuration.
+I cannot guarantee that many of them are correct.
+Please carefully identify them when using them.
