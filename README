@@ -19,3 +19,5 @@ incompatibility issues or Docker image stuck issues. I spent half
 a day to build a relatively rough environment configuration.
 I cannot guarantee that many of them are correct.
 Please carefully identify them when using them.
+
+Wranning: Please try to use qemu when developing in docker.
