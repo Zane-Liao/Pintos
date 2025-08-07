@@ -9,9 +9,7 @@ We'll implement it from four modules:
     /vm
     /filesys
 
-The documentation directory contains my own design documents, which try
-to follow Stanford's rules. I also refer to and read the source code of 
-similar open source operating systems such as Linux, as well as some papers.
+According to Stanford University's rules, you need to find two people to form a team to complete this project. Since it is difficult to find teammates and teaching assistants when studying on your own, I will use LLM as my partner. Of course, the premise is to abide by the rules and not abuse LLM. My code is to only use LLM to answer OS concepts and code snippets that I find difficult to understand. I also refer to and read the source code of similar open source operating systems such as Linux, as well as some papers.
 
 Notes: Regarding Dockerfile, when I was configuring the Pintos environment,
 I started to refer to many solutions on the Internet, but there were
